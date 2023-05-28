@@ -46,3 +46,17 @@ Bardzo przepraszam za opóźnienia w dostarczaniu zadań, ale jest to bardzo du�
 zasób materiału i po prostu nie wyrabiam się.
 Pozostałe zaległe materiały będę dosyłać w najbliższym czasie.
 
+2023-04-22
+Mój kochany pamiętniczku, na dzisiejszych zajęciach:
+- poznałam wprowadzenie do programowania w języku C,
+- nauczyłam się ręcznej kompilacji programów w języku C,
+- dowiedziałam się jak ważne jest rezerwowanie pamięci oraz jej zwalnianie.
+
+2023-05-06
+Mój kochany pamiętniczku, na dzisiejszych zajęciach:
+- dowiedziałam się dużo o operacjach na PID-ach,
+- nauczyłam się jak działa funkcja fork() oraz waitpid().
+
+
+
+
