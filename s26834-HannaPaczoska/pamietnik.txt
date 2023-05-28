@@ -37,3 +37,12 @@ Poprawiłam również instrukcję instalacji debiana, w sposób następujący:
 wskazówkami,
 - uzupełniłam pkt. 60 instrukcji (porównanie środowisk graficznych), którego dwa tygodnie 
 temu nie zdążyłam opisać.
+
+2023-04-01
+Mój kochany pamiętniczku, na dzisiejszych zajęciach:
+- poznałam składnie wyrażeń warunkowcyh i pętli w bash,
+- poznałam również działanie funkcji w bash,
+Bardzo przepraszam za opóźnienia w dostarczaniu zadań, ale jest to bardzo duży
+zasób materiału i po prostu nie wyrabiam się.
+Pozostałe zaległe materiały będę dosyłać w najbliższym czasie.
+

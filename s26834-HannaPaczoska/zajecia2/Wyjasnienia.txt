@@ -61,13 +61,11 @@ X=$(ls -l)
 echo $X - próba wyświetlenia zmiennej $X za pomocą echo $X spowoduje, 
 że formatowanie wyniku zostanie utracone. W przypadku użycia echo $X, 
 każda biała przestrzeń zostanie zastąpiona pojedynczą spacją,
-echo -e "${X}" - właściwą komendą będzie echo -e "${X}", 
+echo "${X}" - właściwą komendą będzie echo "${X}", 
 aby wyświetlić zawartość zmiennej X, z zachowaniem formatowania wyniku.
 
 Ćwiczenie 5:
-Ćwiczenia 5a nie jestem w stanie rozwiązać. 
-Próbowałam na różne sposoby, ale zawsze zostawała ostatnia litera imienia, 
-do którego dodawana była końcówka i wychodziło Alaę.
+Ćwiczenia 5a załączam jako plik cwiczenie5a.sh.
 
 Cwiczenie 5b:
 

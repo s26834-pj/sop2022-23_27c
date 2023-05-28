@@ -3,16 +3,15 @@ Instrukcja instalacji Linux Debian
 1. Pobieram VirtualBox ze strony virtualbox.org.
 2. Pobieram obraz wirtualnej maszyny ze strony debian.org.
 Pobieram mały obraz, gdyż nie ma potrzeby pobierania dużego, 
-który przydaje się w sytuacji,  kiedy nie ma połączenia z siecią 
+który przydaje się w sytuacji, kiedy nie ma połączenia z siecią 
 (np. na statku).
 3. Instaluję Virtualbox na komputerze domowym.
 4. Po zainstalowaniu virtualbox-a naciskam przycisk "Nowa maszyna 
 wirtualna" i wpisuję: nazwę maszyny debian oraz wybieram 
 system 64-bitowy, ponieważ taki procesor ma mój komputer.
-5. W następnym kroku podaję ilość pamięci opieram się na wytycznych 
+5. W następnym kroku podaję ilość pamięci. Opieram się na wytycznych 
 ze strony debian.org w zakresie minimalnych wymagań sprzętowych. 
-W związku z tym, że będę wybieram wersję bez środowiska graficznego, 
-wybieram wartość rekomendowaną w wytycznych: 512 Mb RAM.
+wybieram wartość rekomendowaną do pracy bez środowiska graficznego: 512 Mb RAM.
 Wybór wersji bez środowiska graficznego podyktowany jest tym, 
 bo mam dość stary komputer i ograniczonych zasobach, a z drugiej strony 
 nie mam potrzeby korzystania ze środowiska graficznego.
@@ -401,10 +400,10 @@ pakiety z internetu.
 58. Nie korzystam z propozycji udziału w ankiecie popularności pakietu 
 i kontynuuję instalację.
 
-59. Pojawia się środowiska graficzne, które można wybrać. 
+59. Pojawiają się środowiska graficzne, które można wybrać. 
 Chcę instalować bez środowiska graficznego więc spacją odznaczam te, 
 które są zaznaczone, więc zaznaczam tylko standardowe narzędzia systemowe, 
-które wg znalezionego przeze mnie w internecie źródła: 
+które wg znalezionego przeze mnie w Internecie źródła: 
 https://csmojo.com/posts/what-debian-standard-system-utilities-include.html
 zawierają: 
 “    apt-listchanges
@@ -472,7 +471,7 @@ KDE Plazma
 Zalety:
 - dopracowany interfejs użytkownika
 - elastyczne środowisko graficzne
-- przyjazne dla słabszych i starszych komputerów
+- elastyczne wyszukiwanie zaawansowane
 Wady:
 - średnie zużycie zasobów systemowych
 - może wydawać się skomplikowane w użyciu dla początkujących użytkowników
@@ -492,11 +491,11 @@ Zalety:
 - duże możliwości dostosowania konfiguracji
 - atrakcyjny i stabilny Interfejs 
 Wady:
--duże zużycie zasobów systemowych
+- średnie zużycie zasobów systemowych
 
 Xfce
 Zalety:
-- małe zużycie zasobów systemowych
+- bardzo małe zużycie zasobów systemowych
 - lekki i przyjazny dla starszego sprzętu
 - łatwy w obsłudze
 Wady:
