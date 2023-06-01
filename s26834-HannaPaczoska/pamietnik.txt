@@ -57,6 +57,12 @@ Mój kochany pamiętniczku, na dzisiejszych zajęciach:
 - dowiedziałam się dużo o operacjach na PID-ach,
 - nauczyłam się jak działa funkcja fork() oraz waitpid().
 
+2023-05-20
+Mój kochany pamiętniczku, na dzisiejszych zajęciach przekazana została 
+duża ilość teorii na temat sygnałów i socketów. 
+Była to olbrzymia masa wiedzy, do tego najtrudniejsza z całego materiału,
+który dotąð poznaliśmy.
+
 
 
 
